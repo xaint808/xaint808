@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Javascript/React
 - 📫 How to reach me: bicik098@gmail.com
 
-Also, I'm working on my portfolio B)
+Also, I'm working on my portfolio 😎.
