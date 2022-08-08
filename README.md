@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xaint808
-- 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning Javascript/React
-- 📫 How to reach me: bicik098@gmail.com
+- 👀 I’m interested in Front-End Web Development and Mobile App Development
+- 🌱 I’m currently learning Flutter/Dart
+- 📫 How to reach me: bicik0988@gmail.com
 
 Also, I'm working on my portfolio 😎.
